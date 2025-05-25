@@ -2,6 +2,6 @@
 <manifest>
     <remote name="left" fetch="https://github.com/" revision="main"/>
     <default remote="left"/>
-    <submanifest name="first" path="fst" manifest-name="first.xml"/>
-    <submanifest name="second" path="snd" manifest-name="second.xml"/>
+    <submanifest name="first" path="fst" revision="main" manifest-name="first.xml"/>
+    <submanifest name="second" path="snd" revision="main" manifest-name="second.xml"/>
 </manifest>
