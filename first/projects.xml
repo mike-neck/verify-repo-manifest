@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <remote name="left" fetch="https://github.com/mike-neck/" revision="main"/>
-    <remove-project name="verify-repo-manifest"/>
-    <project name="verify-repo-project" path="project" remote="left" revision="lion" upstream="lion"/>
+    <remote name="left" fetch="https://github.com/" revision="main"/>
+    <remove-project name="mike-neck/verify-repo-manifest.git"/>
+    <project name="mike-neck/verify-repo-project.git" path="project" remote="left" revision="lion" upstream="lion"/>
 </manifest>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <remote name="left" fetch="https://github.com/mike-neck/" revision="main"/>
-    <project name="verify-repo-project" path="project" remote="left" revision="tiger" upstream="tiger"/>
+    <remote name="left" fetch="https://github.com/" revision="main"/>
+    <project name="mike-neck/verify-repo-project.git" path="project" remote="left" revision="tiger" upstream="tiger"/>
 </manifest>
