@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <remote name="left" fetch="https://github.com/" revision="main"/>
+    <default remote="left"/>
     <submanifest name="first" path="fst" manifest-name="first.xml"/>
     <submanifest name="second" path="snd" manifest-name="second.xml"/>
 </manifest>
